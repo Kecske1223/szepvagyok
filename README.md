@@ -5,7 +5,7 @@
 -
 //És updatelheted nyugodtan.    
 -
-//heatet online-ra így tudod rakni:     
+//Cheatet online-ra így tudod rakni:     
 -
 -Csinálsz egy file-t "online.txt" néven.           
 -
