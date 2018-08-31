@@ -1,4 +1,3 @@
-#JaniWare
 
 -Cheat-et offline-ra rakni így tudod:                    
 -Kitörlöd az "online.txt"-t.                             
