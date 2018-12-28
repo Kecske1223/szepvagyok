@@ -1,5 +1,5 @@
 -
-//Cheat-et offline-ra rakni így tudod:  
+//Cheat-et offline-ra rakni így tudod:   (&#x1F49C;)
 -
 -Kitörlöd az "online.txt"-t.     
 -
