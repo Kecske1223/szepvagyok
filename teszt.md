@@ -1,1 +1,1 @@
-(&#x1F49C;)
+Color.Aqua A
