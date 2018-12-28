@@ -1,1 +1,1 @@
-Color.Aqua A
+A
